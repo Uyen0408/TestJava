@@ -17,8 +17,6 @@ import java.io.IOException;
 import java.util.Objects;
 import java.util.Scanner;
 import java.util.StringTokenizer;
-
-
 public class CreateMap {
     public CreateMap(String pathLevel) {
         File fileName = new File(pathLevel);        // Create object fileName contain info of the level.
